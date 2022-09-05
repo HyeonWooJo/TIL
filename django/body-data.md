@@ -1,4 +1,4 @@
-## Body 호출 방법
+## Body data 호출 방법
 
 Django에서 POST request의 body 안에 있는 데이터를 가져오는 방법은 여러 가지이다.
 보통 data = json.loads(request.body)로 data를 선언하여 안에서 데이터를 가져온다.
