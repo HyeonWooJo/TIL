@@ -2,7 +2,7 @@
 
 <br>
 
-<img src = "https://www.notion.so/Restful-API-36d07332325849e7ba535dc5800a0800#a87cacde5d6a4f44ac2d86373bc9db92">
+<img src = "https://velog.velcdn.com/images%2Fsoom%2Fpost%2F59a3110d-1e4e-4b51-934a-fbeada73cbdb%2Fimage.png">
 
 ### 1. 정의
 - REST는 Representational State Transfer의 줄임말로 **웹에 존재하는 모든 자원(이미지, 동영상, DB 자원)에 고유한 URI를 부여해 활용한다는 뜻이다**. REST는 프로토콜이나 표준이 아닌 아키텍처 원칙이다.

@@ -12,6 +12,8 @@ Django에서 POST request의 body 안에 있는 데이터를 가져오는 방법
 
 <br>
 
+---
+
 2. data.get("key")
 - 1번과 다르게 body에 key가 없거난 스펠링 다를 경우 KEY ERROR가 발생하지 않는다.
 - 대신 위처럼 "key"외에 다른 인자를 주지 않을 경우 기본값으로 None을 반환한다.
