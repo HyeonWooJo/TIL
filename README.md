@@ -1,4 +1,4 @@
 # TIL
 
 - Django
-  - [Body 호출](https://github.com/HyeonWooJo/TIL/blob/main/django/body%ED%98%B8%EC%B6%9C.md)
+  - [Body data 호출 방법](https://github.com/HyeonWooJo/TIL/blob/main/django/body-data.md)
