@@ -63,6 +63,7 @@
 - 자원에 대한 행위는 HTTP Method(GET, POST, PUT, DELETE 등)으로 표현해야 한다.
 
 <br>
+
 ---
 
 ### 6. URI 설계시 주의할 점
