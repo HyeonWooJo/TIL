@@ -6,5 +6,7 @@
   - [RESTful API](https://github.com/HyeonWooJo/TIL/blob/main/CS/restful.md)
 
 - Django
+  - DRF
+    - [유효성 검사](https://github.com/HyeonWooJo/TIL/blob/main/django/drf/%EC%9C%A0%ED%9A%A8%EC%84%B1%EA%B2%80%EC%82%AC.md)
   - [ORM](https://github.com/HyeonWooJo/TIL/blob/main/django/orm.md)
   - [디자인 패턴](https://github.com/HyeonWooJo/TIL/blob/main/django/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4.md)
